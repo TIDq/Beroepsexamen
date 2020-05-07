@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b211d069-13b4-461c-91f4-f1f19c19fd98" name="Default Changelist" comment="" />
+    <list default="true" id="b211d069-13b4-461c-91f4-f1f19c19fd98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-ae70791dc8ec8ec47683a3ab500fba8a66bd0647.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-ae70791dc8ec8ec47683a3ab500fba8a66bd0647.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/packed-refs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ShopController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ShopController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/OrderSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/OrderSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/ProductSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/ProductSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/orders/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/orders/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/single.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/single.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +46,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -106,7 +142,12 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1bYHmCHoHlUzOfBpm5hbTwZ47vF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Wesselink" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -147,11 +188,36 @@
       <option name="presentableId" value="Default" />
       <updated>1588802263974</updated>
       <workItem from="1588802266089" duration="14041000" />
-      <workItem from="1588844442653" duration="1376000" />
+      <workItem from="1588844442653" duration="10211000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/orders/index.blade.php</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

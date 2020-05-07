@@ -12,13 +12,7 @@ class OrderSeeder extends Seeder
     public function run()
     {
         DB::table('orders')->insert([
-            'paid' => '5.00',
+            'paid' => '8.00',
         ]);
-/*        DB::table('users')->insert([
-            'id' => '8',
-            'name' => 'Test',
-            'email' => 'test@test.com',
-            'password' => '12345678'
-        ]);*/
     }
 }

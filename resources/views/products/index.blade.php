@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <footer class="card-footer">
-                    <a href="{{ url('/products/') }}" class="card-footer-item button is-info">Lees
+                    <a href="{{ route('product.show', $product->id) }}" class="card-footer-item button is-info">Lees
                         meer</a>
                 </footer>
             </div>

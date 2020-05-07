@@ -12,7 +12,8 @@ class ShopController extends Controller
     /**
      * Shop index, display all products
      */
-    public function index() {
+    public function index()
+    {
         $products = Product::all()->sortBy('name');
         return view('products.index', compact('products'));
     }
@@ -22,9 +23,16 @@ class ShopController extends Controller
      *
      * @param $id
      */
-    public function singleProduct($id) {
-        $product = Product::findOrFail($id);
+    public function show($id)
+    {
+
+        $product = Product::where('id', '=', $id)->get()->first();
+        if (!$product) {
+            abort(404);
+        }
         return view('products.single', compact('product'));
+
+//        $product = Product::findOrFail($id);
     }
 
     /**
@@ -32,9 +40,10 @@ class ShopController extends Controller
      *
      * @param $id
      */
-    public function addToCart($id) {
+    public function addToCart($id)
+    {
         $product = Product::findOrFail($id);
-        if(!Session::get('cart'))
+        if (!Session::get('cart'))
             Session::put('cart', []);
         Session::push('cart', $id);
         return back()->with('success', $product->name . ' added to cart');
@@ -45,7 +54,8 @@ class ShopController extends Controller
      *
      * @param $id
      */
-    public function emptyCart() {
+    public function emptyCart()
+    {
         Session::forget('cart');
         return back()->with('success', 'Cart Emptied');
     }
@@ -53,7 +63,8 @@ class ShopController extends Controller
     /**
      * Check out
      */
-    public function checkout() {
+    public function checkout()
+    {
 
     }
 

@@ -24,7 +24,6 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $products = Product::all()->sortBy('name');
-        return view('home', compact('products'));
+        return view('home');
     }
 }

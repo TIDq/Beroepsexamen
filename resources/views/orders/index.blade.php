@@ -16,7 +16,7 @@
             <div class="card">
                 <header class="card-header">
                     <p class="card-header-title">
-                        {{ $order->user }}
+                        Bestelling
                     </p>
                 </header>
                 <div class="card-content">

@@ -9,9 +9,8 @@
         </div>
     </div>
 
-    <div class="columns has-margin-top-50">
-       <div class="columns">
-        <div class="column">
+    <div class="columns has-margin-top-50 is-centered">
+        <div class="column is-6">
             <div class="card">
                 <header class="card-header">
                     <p class="card-header-title">
@@ -29,6 +28,5 @@
             </div>
         </div>
     </div>
-  </div>
 @endsection
 
