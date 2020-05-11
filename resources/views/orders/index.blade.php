@@ -24,6 +24,11 @@
                         Prijs: &euro; {{ $order->paid }}
                     </div>
                 </div>
+                <div class="card-content">
+                    <div class="content">
+                        Status: {{ $order->status }}
+                    </div>
+                </div>
                 <footer class="card-footer">
                     <a href="{{ url('/orders/') }}" class="card-footer-item button is-info">Lees
                         meer</a>

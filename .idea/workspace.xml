@@ -2,38 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b211d069-13b4-461c-91f4-f1f19c19fd98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/applypatch-msg.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/commit-msg.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/post-update.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-applypatch.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-commit.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-push.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-rebase.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/pre-receive.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/prepare-commit-msg.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/hooks/update.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/info/exclude" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-ae70791dc8ec8ec47683a3ab500fba8a66bd0647.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-ae70791dc8ec8ec47683a3ab500fba8a66bd0647.pack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/packed-refs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ShopController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ShopController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_05_06_235829_create_orders_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_05_06_235829_create_orders_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/OrderSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/OrderSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/ProductSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/ProductSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/orders/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/orders/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/single.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/single.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,8 +165,17 @@
       <option name="presentableId" value="Default" />
       <updated>1588802263974</updated>
       <workItem from="1588802266089" duration="14041000" />
-      <workItem from="1588844442653" duration="10211000" />
+      <workItem from="1588844442653" duration="10315000" />
+      <workItem from="1589181410972" duration="2929000" />
     </task>
+    <task id="LOCAL-00001" summary="Klaar">
+      <created>1588856552892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588856552892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,14 +186,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Klaar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klaar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

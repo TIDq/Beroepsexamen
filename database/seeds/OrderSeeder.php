@@ -12,7 +12,8 @@ class OrderSeeder extends Seeder
     public function run()
     {
         DB::table('orders')->insert([
-            'paid' => '8.00',
+            'status' => 'afgeleverd',
+            'paid' => '6.00',
         ]);
     }
 }
