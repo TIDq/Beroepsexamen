@@ -2,7 +2,7 @@
 
 namespace App;
 
-use Illuminate\Database\Eloquent\Pivot;
+use Illuminate\Database\Eloquent\Relations\Pivot;
 
 class OrderProducts extends Pivot
 {
@@ -14,4 +14,6 @@ class OrderProducts extends Pivot
     protected $fillable = [
         'order_id', 'product_id'
     ];
+
+    protected $table = 'order_products';
 }

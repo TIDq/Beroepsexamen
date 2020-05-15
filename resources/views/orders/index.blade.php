@@ -16,12 +16,19 @@
             <div class="card">
                 <header class="card-header">
                     <p class="card-header-title">
-                        Bestelling
+                        Bestelling #{{ $order->id }}
                     </p>
                 </header>
                 <div class="card-content">
                     <div class="content">
-                        Prijs: &euro; {{ $order->paid }}
+                        @if($order->paid >= 200)
+                            Verzendkosten: &euro;0,00<br/>
+                            Totaal: &euro; {{ $order->paid }}
+                        @else
+                            Verzendkosten: &euro;12,50<br/>
+                            Totaal: &euro; {{ $order->paid + 12.50 }}
+
+                        @endif
                     </div>
                 </div>
                 <div class="card-content">
@@ -30,7 +37,7 @@
                     </div>
                 </div>
                 <footer class="card-footer">
-                    <a href="{{ url('/orders/') }}" class="card-footer-item button is-info">Lees
+                    <a href="{{ route('order.show', $order->id) }}" class="card-footer-item button is-info">Lees
                         meer</a>
                 </footer>
             </div>

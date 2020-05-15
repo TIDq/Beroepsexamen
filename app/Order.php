@@ -20,4 +20,8 @@ class Order extends Model
         return $this->belongsToMany('App\Product', 'order_products', 'order_id', 'product_id')
             ->using('App\OrderProducts');
     }
+
+    public function user() {
+        return $this->belongsTo('App\User');
+    }
 }
