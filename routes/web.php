@@ -13,8 +13,9 @@
 
 Auth::routes();
 
-Route::get('/home', 'Homecontroller@index')->name('home');
+Route::get('/', 'HomeController@index');
 Route::post('/product/{id}', 'ShopController@addToCart');
 Route::resource('product', 'ShopController');
-Route::get('/cart', 'ShopController@shoppingCart');
+Route::resource('order', 'OrderController');
+Route::get('/cart', 'CartController@show');
 Route::get('/orders', 'OrderController@index')->name('orders');

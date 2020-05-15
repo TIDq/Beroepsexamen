@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <footer class="card-footer">
-                    <a href="{{ url('/cart') }}" class="card-footer-item button is-primary">Bestel</a>
+                    <input type="submit" value="Bestel" class="card-footer-item button is-primary">
                 </footer>
             </div>
         </div>

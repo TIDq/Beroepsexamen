@@ -20,7 +20,7 @@
             <nav class="navbar has-shadow">
                 <div class="container">
                     <div class="navbar-brand">
-                        <a href="{{ url('/home') }}" class="navbar-item">{{ config('app.name', 'Laravel') }}</a>
+                        <a href="{{ url('/') }}" class="navbar-item">{{ config('app.name', 'Laravel') }}</a>
 
                         <div class="navbar-burger burger" data-target="navMenu">
                             <span></span>

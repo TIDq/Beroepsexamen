@@ -8,7 +8,7 @@
             </h1>
         </div>
     </div>
-    <div class="columns has-margin-top-50">
+    <div class="columns has-margin-top-50 is-centered">
         <div class="columns">
             <div class="column">
                 <div class="card">
@@ -29,23 +29,27 @@
             </h1>
         </div>
     </div>
-    <div class="columns has-margin-top-50">
+    <div class="columns has-margin-top-50 is-centered">
         <div class="columns">
             <div class="column">
                 <div class="card">
                     <header class="card-header">
                         <p class="card-header-title">
-                            {{ $product->name }}
+                          {{--  {{ $product->name }} --}}
                         </p>
                     </header>
                     <div class="card-content">
                         <div class="content">
-                            Prijs: &euro; {{ $product->price }}
+                            Prijs: &euro; {{--{{ $product->price }} --}}
                         </div>
                     </div>
                     <div class="card-content">
                         <div class="content">
+                            @if($order->paid > 200 + 0 )
                             Totaal: &euro; {{ $order->paid }}
+                                @else
+                                Totaal: &euro; {{ $order->paid + 12.50 }}
+                            @endif
                         </div>
                     </div>
                 </div>

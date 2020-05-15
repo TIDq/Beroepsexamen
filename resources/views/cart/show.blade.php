@@ -1,4 +1,4 @@
-{{--@extends('layouts.app')
+@extends('layouts.app')
 
 @section('content')
     <div class="columns">
@@ -9,19 +9,19 @@
         </div>
     </div>
 
-    <div class="columns has-margin-top-50">
+    <div class="columns has-margin-top-50 is-centered">
       <div class="columns">
         <div class="column is-one-third">
-                    <p class="card-header-title">
-                        {{ $product->name }}
-                    </p>
+
+                      Product {{-- {{ $product->name }}--}}
+
         </div>
         <div class="column is-one-third">
-                        Prijs: &euro; {{ $product->price }}
+                        Prijs: &euro; {{--{{ $product->price }}--}}
         </div>
         <div class="column is-one-third">
-                    <a href="{{ url('/products/') }}" class="button is-danger">Verwijder</a>
+                    <a href="{{ url('/') }}" class="button is-danger">Verwijder</a>
         </div>
       </div>
     </div>
-@endsection--}}
+@endsection

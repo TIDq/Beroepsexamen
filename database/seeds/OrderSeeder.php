@@ -13,7 +13,7 @@ class OrderSeeder extends Seeder
     {
         DB::table('orders')->insert([
             'status' => 'afgeleverd',
-            'paid' => '6.00',
+            'paid' => '300',
         ]);
     }
 }

@@ -8,6 +8,12 @@
             </h1>
         </div>
     </div>
+    <div class="columns is-center">
+        <div class="column is-one-third">
+            Filter:
+
+        </div>
+    </div>
 
     <div class="columns has-margin-top-50">
         @forelse($products as $product)

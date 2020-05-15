@@ -12,8 +12,9 @@ class ProductSeeder extends Seeder
     public function run()
     {
         DB::table('products')->insert([
-            'name' => 'Tas',
-            'price' => '6.00',
+            'name' => 'Hemd',
+            'price' => '300',
+            'delivery' => 'binnen_5-7_werkdagen' ,
         ]);
     }
 }

@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Product;
 use Illuminate\Http\Request;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Session;
 
 class ShopController extends Controller
@@ -16,6 +17,7 @@ class ShopController extends Controller
     {
         $products = Product::all()->sortBy('name');
         return view('products.index', compact('products'));
+
     }
 
     /**
@@ -31,8 +33,6 @@ class ShopController extends Controller
             abort(404);
         }
         return view('products.single', compact('product'));
-
-//        $product = Product::findOrFail($id);
     }
 
     /**
