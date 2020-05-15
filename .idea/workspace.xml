@@ -1,16 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b211d069-13b4-461c-91f4-f1f19c19fd98" name="Default Changelist" comment="">
+    <list default="true" id="b211d069-13b4-461c-91f4-f1f19c19fd98" name="Default Changelist" comment="Github issue #2 (Totaalprijs)">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-7e5a6d51ac6d33688272a2fe59b86982fc3c95f7.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-7e5a6d51ac6d33688272a2fe59b86982fc3c95f7.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/packed-refs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-7e5a6d51ac6d33688272a2fe59b86982fc3c95f7.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-7e5a6d51ac6d33688272a2fe59b86982fc3c95f7.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/packed-refs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-6c16577ecc41b50bc6915f88267c288c2968f849.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-6c16577ecc41b50bc6915f88267c288c2968f849.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/packed-refs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-6c16577ecc41b50bc6915f88267c288c2968f849.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-6c16577ecc41b50bc6915f88267c288c2968f849.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/packed-refs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-944f43ee6423abbd0b2688a90c9beb18f53b32d5.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-944f43ee6423abbd0b2688a90c9beb18f53b32d5.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/UserSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Order.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_05_06_235829_create_orders_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_05_06_235829_create_orders_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-944f43ee6423abbd0b2688a90c9beb18f53b32d5.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-944f43ee6423abbd0b2688a90c9beb18f53b32d5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-944f43ee6423abbd0b2688a90c9beb18f53b32d5.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/objects/pack/pack-944f43ee6423abbd0b2688a90c9beb18f53b32d5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/beroepsexamen.git/packed-refs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-ae70791dc8ec8ec47683a3ab500fba8a66bd0647.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/objects/pack/pack-ae70791dc8ec8ec47683a3ab500fba8a66bd0647.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beroepsexamen.git/packed-refs" beforeDir="false" afterPath="$PROJECT_DIR$/beroepsexamen.git/packed-refs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/OrderSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/OrderSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/ProductSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/ProductSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/orders/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/orders/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/orders/single.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/orders/single.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,12 +239,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Wesselink" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docx" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tdilr\Examenn\docx" />
+      <recent name="C:\Users\tdilr\Examenn\beroepsexamen.git\beroepsexamen.git\beroepsexamen.git\beroepsexamen.git\beroepsexamen.git\beroepsexamen.git\beroepsexamen.git" />
+      <recent name="C:\Users\tdilr\Examenn" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tdilr\Examenn\docx" />
+      <recent name="C:\Users\tdilr\Examenn" />
+      <recent name="C:\Users\tdilr\Examenn\database export" />
       <recent name="C:\Users\tdilr\Examenn\resources\views\cart" />
       <recent name="C:\Users\tdilr\Examenn\resources\views\products" />
     </key>
@@ -166,7 +287,9 @@
       <updated>1588802263974</updated>
       <workItem from="1588802266089" duration="14041000" />
       <workItem from="1588844442653" duration="10315000" />
-      <workItem from="1589181410972" duration="2929000" />
+      <workItem from="1589181410972" duration="4913000" />
+      <workItem from="1589198280059" duration="610000" />
+      <workItem from="1589496833497" duration="25920000" />
     </task>
     <task id="LOCAL-00001" summary="Klaar">
       <created>1588856552892</created>
@@ -175,7 +298,56 @@
       <option name="project" value="LOCAL" />
       <updated>1588856552892</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Status toegevoegd bij bestellingen">
+      <created>1589192689266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589192689266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Database export">
+      <created>1589193141319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589193141319</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Push before issues">
+      <created>1589537310642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589537310642</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Github issue #1 (Verzendkosten)">
+      <created>1589538106156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589538106156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Github issue #2 (Totaalprijs)">
+      <created>1589538384693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589538384693</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Github issue #2 (Totaalprijs)">
+      <created>1589538432230</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589538432230</updated>
+    </task>
+    <task id="LOCAL-00008" summary="docx">
+      <created>1589545677293</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589545677293</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,17 +370,12 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Klaar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klaar" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/resources/views/orders/index.blade.php</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Status toegevoegd bij bestellingen" />
+    <MESSAGE value="Database export" />
+    <MESSAGE value="Push before issues" />
+    <MESSAGE value="Github issue #1 (Verzendkosten)" />
+    <MESSAGE value="Github issue #2 (Totaalprijs)" />
+    <MESSAGE value="docx" />
+    <option name="LAST_COMMIT_MESSAGE" value="docx" />
   </component>
 </project>

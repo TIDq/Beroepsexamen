@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Str;
 
 class ProductSeeder extends Seeder
 {
@@ -11,10 +12,12 @@ class ProductSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('products')->insert([
-            'name' => 'Hemd',
-            'price' => '300',
-            'delivery' => 'binnen_5-7_werkdagen' ,
-        ]);
+        for ($i = 0; $i < 10; $i++) {
+            DB::table('products')->insert([
+                'name' => Str::random(10),
+                'price' => rand(1, 999),
+                'delivery' => 'binnen_5-7_werkdagen',
+            ]);
+        }
     }
 }

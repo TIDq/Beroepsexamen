@@ -24,4 +24,13 @@ class Order extends Model
     public function user() {
         return $this->belongsTo('App\User');
     }
+
+    public function getTotal() {
+        $total = 0;
+        foreach($this->products as $product) {
+            $total += $product->price;
+        }
+        return $total;
+    }
+
 }

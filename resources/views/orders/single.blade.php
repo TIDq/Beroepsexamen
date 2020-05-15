@@ -15,12 +15,13 @@
                     <div class="card-content">
                         <div class="content">
                             Klant: {{ $order->user->email }} <br/>
-                            @if($order->paid >= 200)
+                            @if($order->getTotal() >= 200)
                                 Verzendkosten: &euro;0,00<br/>
-                                Totaal: &euro; {{ $order->paid }}
+                                Totaal: &euro; {{ $order->getTotal() }}
                             @else
                                 Verzendkosten: &euro;12,50<br/>
-                                Totaal: &euro; {{ $order->paid + 12.50 }}
+                                Totaal: &euro; {{ $order->getTotal() + 12.50 }}
+
                             @endif
                         </div>
                     </div>
