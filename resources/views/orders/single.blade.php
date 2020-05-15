@@ -51,11 +51,6 @@
                                 Prijs: &euro; {{ $product->price }}
                             </div>
                         </div>
-                        <div class="card-content">
-                            <div class="content">
-
-                            </div>
-                        </div>
                     </div>
                 </div>
             @empty
